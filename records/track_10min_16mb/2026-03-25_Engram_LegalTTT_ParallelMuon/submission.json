@@ -1,0 +1,9 @@
+{
+  "name": "Engram Memory + Legal TTT + Parallel Muon",
+  "val_bpb": null,
+  "bytes_total": null,
+  "blurb": "Multi-order N-gram memory (Engram) replacing BigramHash: bigram+trigram hash tables with multi-head hashing and context-aware gating, inspired by DeepSeek Engram. Built on PR #549 stack (LeakyReLU², Legal TTT, Parallel Muon, XSA, Partial RoPE, EMA+SWA, GPTQ-lite int6). Pending H100 validation.",
+  "author": "korbindeman",
+  "github_id": "korbindeman",
+  "date": "2026-03-25"
+}
